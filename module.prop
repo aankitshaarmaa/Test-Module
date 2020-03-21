@@ -1,6 +1,6 @@
-id=template
+id=Test Module
 name=Template Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author= Ankit Sharma
+description=Learning to make magisk module
